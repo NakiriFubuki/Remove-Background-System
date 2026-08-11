@@ -1,0 +1,7 @@
+Copyright (c) 2026 Eng Choon Hao. All rights reserved.
+
+This software and its source code are protected by copyright law.
+Unauthorized copying, distribution, or commercial resale without
+permission is prohibited.
+
+See LICENSE for the MIT Non-Commercial terms.

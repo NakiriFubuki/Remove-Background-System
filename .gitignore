@@ -1,0 +1,12 @@
+uploads/*
+!uploads/.gitkeep
+!uploads/.htaccess
+
+processed/*
+!processed/.gitkeep
+!processed/.htaccess
+
+Thumbs.db
+.DS_Store
+*.log
+*.zip
