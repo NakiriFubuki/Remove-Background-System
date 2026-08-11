@@ -7,6 +7,14 @@ Upload a photo, remove the background in one click, and download a clean **trans
 
 ---
 
+## 🎬 **Project Demo Video**
+
+📺 Watch the full system demo (upload, remove background, download PNG & user manual):
+
+👉 **[Watch on Google Drive](https://drive.google.com/file/d/1f5ULPh5VJc0Ng0gP4xyC73PpFFzr0XqR/view?usp=sharing)**
+
+---
+
 ## ✨ **Features**
 
 - 📤 **Easy Upload** — click **Choose Image** or drag & drop a photo onto the Original panel  
